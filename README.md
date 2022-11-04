@@ -28,5 +28,5 @@ It has functionalities as follows
        5] Enter the Movie Name of the Song: 
        6] Enter the Name of the Composer : 
        7] Enter the Duration time of the song : 
-5. Exist 
+5. Exit
 
